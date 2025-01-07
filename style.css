@@ -15,8 +15,8 @@ html, body {
 } */
 
 #main {
-  background-color: #c8c0b9;
-  overflow-x: hidden;
+  background-color: rgb(85, 84, 84);
+  /* overflow-x: hidden; */
 }
 
 #page1 {
