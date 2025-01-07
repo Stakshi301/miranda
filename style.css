@@ -15,7 +15,7 @@ html, body {
 } */
 
 #main {
-  background-color: #4d4b46;
+  background-color: #c8c0b9;
   overflow-x: hidden;
 }
 
@@ -535,7 +535,7 @@ html, body {
 }
 
 #page7 {
-  height: 250vh;
+  height: 130vh;
   width: 100%;
   background-color: #c5bbb3;
 }
@@ -562,7 +562,7 @@ html, body {
   margin-right: 80px;
   margin-left: 85px;
 
-  background-color: #a32a1a;
+  /* background-color: #a32a1a; */
   /* text-align: center; */
   font-family: "canopee";
 }
@@ -585,6 +585,6 @@ html, body {
 position: absolute; 
 left: 10px;
 margin-right: 100px;
-background-color: aquamarine;
+/* background-color: aquamarine; */
 }
 
